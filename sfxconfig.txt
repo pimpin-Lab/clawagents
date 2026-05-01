@@ -1,6 +1,0 @@
-;!@Install@!UTF-8!
-Title="Excel/CSV Merger - Excel/CSV 文件合并工具"
-ExtractTitle="正在解压 Excel/CSV Merger..."
-ExtractDialogText="请稍候，正在准备运行环境..."
-RunProgram="ExcelMerger.exe"
-;!@InstallEnd@!
