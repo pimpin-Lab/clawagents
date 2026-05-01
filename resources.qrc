@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>donate_qrcode.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,41 @@
+# Build output
+build/
+release/
+
+# Compiled files
+*.dll
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.exe
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+CTestTestfile.cmake
+*.dir/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Test data
+test_data/
+
+# MinGW
+mingw32-make.exe
